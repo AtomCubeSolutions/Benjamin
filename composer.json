@@ -1,0 +1,16 @@
+{
+    "name": "atomcube/benjatomin",
+    "description": "AtomCube's chatbot",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vítězslav Dvořák",
+            "email": "info@vitexsoftware.cz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "botman/driver-web": "2.0.x-dev"
+    }
+}
